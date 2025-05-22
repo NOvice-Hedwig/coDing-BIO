@@ -16,7 +16,7 @@ I'm currently pivoting into software engineering from a strong background in bus
 - 📊 [ESG Scoring System](https://github.com/yourusername/project3) — modeling + real-world financial data
 
 ## Languages & Tools
-`Python` | `SQL` | `Git` | `Jupyter` | `Flask` | `HTML/CSS` (learning)
+`Python` | `C++` | `C` | `FORTRAN` | `Git` | `SQL` | `MATLAB` | `R` | `Flask` | `HTML/CSS` (learning)
 
 ## Next Goals
 - Build end-to-end web apps
